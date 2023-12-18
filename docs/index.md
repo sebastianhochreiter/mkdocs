@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Herzlich Willkommen
+
+## Diese Seite wird mit MkDocs betrieben. Zusätzlich ist das Material Theme installiert.
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
